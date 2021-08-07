@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        tools:context=".DoctorFragment">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="88dp"
+            android:layout_height="78dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/download_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="311dp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="82dp"
+            android:layout_height="102dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/download_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="60dp" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="78dp"
+            android:layout_height="101dp"
+            android:layout_marginTop="80dp"
+
+            android:src="@drawable/download_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="194dp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="92dp"
+            android:layout_height="89dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/download_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="638dp" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="80dp"
+            android:layout_height="131dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/download_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="522dp" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="75dp"
+            android:layout_height="88dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/download_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="407dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="28dp"
+            tools:layout_editor_absoluteY="-7dp"
+            tools:ignore="MissingConstraints" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
+
+
+
+
+

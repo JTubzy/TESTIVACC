@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TESTIVACC</string>
+    <string name="navigation_drawer_open" translatable="false">OpenNavigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close Navigation drawer</string>
+
+    <string name="ForgotPassword">Mot de passe oubliée</string>
+    <string name="LOGIN">Connexion</string>
+    <string name="SIGNIN">Sign in</string>
+    <string name="ABOUT_APPLICATION">À propos de l\'application</string>
+    <string name="TESTING_CONSULTATION_AND_VACCINATION_SERVICES">Services de dépistage, de consultation et de vaccination</string>
+    <string name="Profile">profil</string>
+    <string name="Logout">Se déconnecter</string>
+    <string name="Language">Langue</string>
+    <string name="Doctors">Médecins</string>
+    <string name="About">À propos de</string>
+    <string name="This_application_is_to_help_people_access_meidcal_services_concerning_COVID_at_home_due_to_the_available_conditions_These_services_include_Testing_Vaccination_Consultation_from_a_private_Hospital_of_issues_concerninng_COVID">Cette application a pour but d\'aider les personnes à accéder aux services médicaux concernant COVID à domicile en raison des conditions disponibles. Ces services comprennent les tests, la vaccination, la consultation d\'un hôpital privé des problèmes concernant COVID.</string>
+    <string name="BACKGROUND_OF_COVID">CONTEXTE</string>
+    <string name="Coronavirus_disease_COVID_19_is_an_infectious_disease_caused_by_a_newly_discovered_Coronavirus_Most_people_infected_with_the_COVID_19_virus_will_experience_mild_to_moderate_respiratory_illness_and_recover_without_requiring_special_treatment">La maladie à coronavirus (COVID-19) est une maladie infectieuse causée par un coronavirus nouvellement découvert. La plupart des personnes infectées par le virus COVID-19 connaîtront une maladie respiratoire légère à modérée et se rétabliront sans nécessiter de traitement spécial.</string>
+
+</resources>

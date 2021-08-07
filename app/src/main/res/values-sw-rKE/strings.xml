@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="navigation_drawer_open" translatable="false">Open Navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close Navigation drawer</string>
+    <string name="app_name">TESTIVACC</string>
+    <string name="USERNAME">jina la mtumiaji</string>
+    <string name="PASSWORD">nywila</string>
+    <string name="ForgotPassword">Umesahau nywila?</string>
+    <string name="LOGIN">Ingia</string>
+    <string name="SIGNIN">jiandikishe</string>
+    <string name="ABOUT_APPLICATION">kuhusu matumizi</string>
+    <string name="TESTING_CONSULTATION_AND_VACCINATION_SERVICES">HUDUMA ZA USHAURI NA USALAMA WA KUPIMA</string>
+    <string name="Profile">maelezo mafupi</string>
+    <string name="Logout">LOGOUT</string>
+    <string name="Language">lugha</string>
+    <string name="Doctors">MADAKTARI</string>
+    <string name="About">KUHUSU</string>
+    <string name="This_application_is_to_help_people_access_meidcal_services_concerning_COVID_at_home_due_to_the_available_conditions_These_services_include_Testing_Vaccination_Consultation_from_a_private_Hospital_of_issues_concerninng_COVID">Maombi haya ni kusaidia watu kupata huduma za meidcal zinazohusu COVID nyumbani kwa sababu ya hali zilizopo. Huduma hizi ni pamoja na Upimaji, Chanjo, Ushauri kutoka kwa Hospitali ya kibinafsi ya maswala yanayohusu COVID.</string>
+    <string name="BACKGROUND_OF_COVID">BACKGROUND OF COVID</string>
+    <string name="Coronavirus_disease_COVID_is_an_infectious_disease_caused_by_a_newly_discovered_coronavirus_Most_people_infected_with_the_COVID_19_virus_will_experience_mild_to_moderate_respiratory_illness_and_recover_without_requiring_special_treatment" tools:ignore="ExtraTranslation">Ugonjwa wa Coronavirus (COVID-19) ni ugonjwa wa kuambukiza unaosababishwa na coronavirus mpya. Watu wengi walioambukizwa na virusi vya COVID-19 watapata magonjwa ya kupumua ya wastani hadi wastani na kupona bila kuhitaji matibabu maalum</string>
+
+</resources>
